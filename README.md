@@ -56,11 +56,10 @@ An AI-powered content generation workflow built with **n8n**, **Ollama**, and **
 
 Add screenshots of your project below:
 
-- **Workflow Overview:** `screenshots/workflow.png`
-- **Input Form:** `screenshots/input-form.png`
-- **Generated Content:** `screenshots/generated-content.png`
+- **Workflow Overview:** `ai content generator.PNG`
+- **Input Form:** `2.PNG`
+- **Generated Content:** `ai content generator output.PNG`
 
-Replace these placeholders with your actual screenshots when available.
 
 ## Use Cases
 
